@@ -126,3 +126,4 @@ This project works **100% offline** after setup:
 
 ### 🧑‍💻 Example (OUTPUT)
 
+<img width="1259" height="986" alt="Image" src="https://github.com/user-attachments/assets/8474162d-7e05-4e9f-9723-55a02237a817" />
